@@ -180,6 +180,7 @@ Swapping in a **Broadcom (Fenvi / BCM94360NG)** card is the usual fix.
 
 > [!IMPORTANT]
 > If you use this EFI, **create your own SMBIOS** (Serial, MLB, UUID) with GenSMBIOS. **Never share or reuse someone else's serial number.**
+> download link https://drive.google.com/file/d/1plqEG7P_jc_ScRrj3r2svyYjkmtuP6rt/view?usp=drive_link
 
 ---
 
